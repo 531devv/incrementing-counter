@@ -1,5 +1,5 @@
 # incrementing-counter
 Simple javascript project.
 
-###Preview
+### Preview
 https://531devv.github.io/incrementing-counter/
